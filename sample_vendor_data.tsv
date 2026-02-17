@@ -1,0 +1,7 @@
+sku	item_short_description	segmentid	outl	Total_30Day_Market_Sales_eBay	OS Primary	Lowest_LC_Primary?	VendorID_1	cost_1	Landed_Cost_1	OrderMultiple_1	MOQ_1	VendorID_2	cost_2	Landed_Cost_2	OrderMultiple_2	MOQ_2	VendorID_3	cost_3	Landed_Cost_3	OrderMultiple_3	MOQ_3	VendorID_4	cost_4	Landed_Cost_4	OrderMultiple_4	MOQ_4	VendorID_5	cost_5	Landed_Cost_5	OrderMultiple_5	MOQ_5
+1ABMX00088	Mirror Bracket	MirrorsSales	5	0	V0050	Yes	V0050	2.4	3.09	40	40	V0120	2.8	3.55	20	20	V0200	2.1	2.85	50	100
+1ABMX00089	Mirror Bracket	MirrorsSales	5	0	V0050	Yes	V0050	2.4	3.05	40	40
+1ABMX00348	Mirror Bracket Set	MirrorsSales	2	0	V0050	Yes	V0050	6.0	7.90	10	30	V0120	5.5	7.20	10	20	V0200	6.5	8.50	5	25
+SKU-2001	Headlight Assembly	LightingSales	8	12	V0120	No	V0120	45.0	52.30	1	5	V0050	42.0	49.50	1	10	V0200	40.0	47.80	2	10
+SKU-2002	Tail Light Lens	LightingSales	4	5	V0050	Yes	V0050	8.5	10.20	10	50	V0120	9.0	10.80	10	30
+SKU-3001	Radiator Hose	CoolingSales	6	3	V0200	No	V0200	5.0	6.80	25	100	V0050	4.5	6.10	20	60	V0120	4.2	5.75	30	90	V0310	4.8	6.50	25	75	V0410	5.2	7.10	10	50
