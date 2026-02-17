@@ -1,0 +1,19 @@
+item,vendor,unit_cost,is_primary
+Widget A,Acme Supply Co,12.50,yes
+Widget A,Global Parts Inc,11.75,no
+Widget A,BestValue Wholesale,13.00,no
+Widget B,Acme Supply Co,8.00,yes
+Widget B,Global Parts Inc,8.50,no
+Widget B,BestValue Wholesale,7.25,no
+Widget C,Acme Supply Co,25.00,yes
+Widget C,Global Parts Inc,26.00,no
+Widget C,BestValue Wholesale,22.50,no
+Widget D,Acme Supply Co,5.00,yes
+Widget D,Global Parts Inc,5.00,no
+Widget D,BestValue Wholesale,5.50,no
+Gasket E,Acme Supply Co,3.75,yes
+Gasket E,Global Parts Inc,3.50,no
+Gasket E,BestValue Wholesale,3.80,no
+Bolt Pack F,Acme Supply Co,1.20,yes
+Bolt Pack F,Global Parts Inc,1.50,no
+Bolt Pack F,BestValue Wholesale,1.10,no
